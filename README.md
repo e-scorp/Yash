@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YashwantNG
+- 👋 Hi, I’m @Yash
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning programming languages
 
